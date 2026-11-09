@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...SpeakAble-website project 
+- 🔭 I’m currently working on ...UIC WEBSITEproject 
 - 🌱 I’m currently learning ...AI/ML
 - 👯 I’m looking to collaborate on ...linkedin/instagram
 - 🤔 I’m looking for help with ...
